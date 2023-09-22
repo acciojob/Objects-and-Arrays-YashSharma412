@@ -16,6 +16,10 @@ let cap1 = {
 	...person
 };
 
+console.log(team);
+console.log(team1);
+console.log(cap1);
+
 window.players = players;
 window.person = person;
 window.team = team;
